@@ -96,14 +96,11 @@ html, body{
     margin:10px;
     text-transform:uppercase;
     text-align:right;
-    /* margin-top:0.6vw; */
     font-size:1vw;
 
 }
 #chothiheading{
-    /* color:#fff; */
     width:100%;
-    /* position:absolute; */
     bottom:3%;
     display:flex;
     align-items:center;
@@ -167,7 +164,7 @@ html, body{
     width:34%;
     background-color: black;
 }
- #aboutimg img{ /* ye mene kiya hai h1 ke just phele tak */
+ #aboutimg img{  
  margin-left:500px; 
  border-radius:50%;
     width:320px;
@@ -182,12 +179,10 @@ html, body{
 
 }
 #textabout p{
-    /* background-color: aqua; */
     gap:200px;
     position:relative;
     top:-260px;
     font-size:22px;
-    /* width:1rem; */
     margin-left:58vw;
     color:#fff;
 }
@@ -300,5 +295,5 @@ transform: translateY(100%);
 
 .bounding h1 {
   transform: translateY(100%);
-  display: inline-block; /* 🔥 ye add kar */
+  display: inline-block;
 }
